@@ -2,7 +2,8 @@
     "name": "high-contrast-light",
     "displayName": "high-contrast-light",
     "description": "A high contrast light theme for vscode",
-    "publisher": "rufuswein",
+    "publisher": "high-contrast-light",
+    "repository": "https://github.com/Elijah-Barker/high-contrast-light.git",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.36.0"
