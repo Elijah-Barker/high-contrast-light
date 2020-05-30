@@ -1,0 +1,22 @@
+{
+    "name": "high-contrast-light",
+    "displayName": "high-contrast-light",
+    "description": "A high contrast light theme for vscode",
+    "publisher": "rufuswein",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.36.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "High Contrast Light",
+                "uiTheme": "vs",
+                "path": "./themes/High Contrast Light-color-theme.json"
+            }
+        ]
+    }
+}
