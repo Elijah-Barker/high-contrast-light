@@ -4,9 +4,9 @@
     "description": "A high contrast light theme for vscode",
     "publisher": "high-contrast-light",
     "repository": "https://github.com/Elijah-Barker/high-contrast-light.git",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "engines": {
-        "vscode": "^1.36.0"
+        "vscode": "^1.57.1"
     },
     "categories": [
         "Themes"

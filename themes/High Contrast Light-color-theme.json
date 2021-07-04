@@ -2,6 +2,14 @@
 	"name": "High Contrast Light",
 	"type": "light",
 	"colors": {
+		"quickInputList.focusBackground": "#0060c0",
+		"quickInputList.focusForeground": "#ffffff",
+		"list.focusHighlightForeground": "#9dddff",
+		"editorSuggestWidget.focusHighlightForeground": "#9dddff",
+		"editorSuggestWidget.foreground": "#000000",
+		"editorSuggestWidget.highlightForeground": "#0066bf",
+		"editorSuggestWidget.selectedBackground": "#0060c0",
+		"editorSuggestWidget.selectedForeground": "#ffffff",
 		"editor.background": "#ffffff",
 		"editor.foreground": "#000000"
 	},
